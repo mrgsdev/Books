@@ -7,7 +7,8 @@ Books I have read
 - [x] [The Swift Programming Language](#1)
 - [x] [Swift. Основы разработки приложений под iOS](#2)
 - [x] [Beginning iOS Programming with Swift](#3) 
-- [x] [Intermediate iOS 14 Programming with Swift](#4) 
+- [ ] [Intermediate iOS 14 Programming with Swift](#4)
+- [ ] [iOS 15 Programming Fundamentals with Swift](#5) 
 
 <a name="1"></a>
 ### [The Swift Programming Language](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
@@ -25,4 +26,9 @@ Books I have read
 ### [Intermediate iOS 14 Programming with Swift](https://www.appcoda.com/intermediate-swift-programming-book/)
  ![123](https://user-images.githubusercontent.com/107209053/182770530-a437cf92-4b1d-4b1f-ab99-abe0e1c01f2a.png)
 ##
+<a name="5"></a>
+### [iOS 15 Programming Fundamentals with Swift](https://www.oreilly.com/library/view/ios-15-programming/9781098118495/)
+ ![bok](https://user-images.githubusercontent.com/107209053/182771089-de0e0eae-c583-4aa5-b559-153f91477c19.png)
+##
 
+![мм](https://user-images.githubusercontent.com/107209053/182771842-6feb9337-2355-4262-8f08-677126e5e031.png)
