@@ -29,6 +29,4 @@ Books I have read
 <a name="5"></a>
 ### [iOS 15 Programming Fundamentals with Swift](https://www.oreilly.com/library/view/ios-15-programming/9781098118495/)
  ![bok](https://user-images.githubusercontent.com/107209053/182771089-de0e0eae-c583-4aa5-b559-153f91477c19.png)
-##
-
-![мм](https://user-images.githubusercontent.com/107209053/182771842-6feb9337-2355-4262-8f08-677126e5e031.png)
+## 
