@@ -2,7 +2,7 @@
 ![read](https://user-images.githubusercontent.com/107209053/182776081-cce91751-f806-46e6-bb04-203144792235.png)
 
 
- - [x] **readed**
+ - [x] **read**
  - [ ] ***reading***
  
   ### Contents  
