@@ -9,7 +9,7 @@
 - [x] [The Swift Programming Language](#1)
 - [x] [Swift. Основы разработки приложений под iOS](#2)
 - [x] [Beginning iOS Programming with Swift](#3) 
-- [ ] [Intermediate iOS 14 Programming with Swift](#4)
+- [x] [Intermediate iOS 14 Programming with Swift](#4)
 - [ ] [iOS 15 Programming Fundamentals with Swift](#5) 
 
 <a name="1"></a>
