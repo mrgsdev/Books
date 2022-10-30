@@ -12,6 +12,7 @@
 - [x] [Intermediate iOS 14 Programming with Swift](#4)
 - [ ] [iOS 15 Programming Fundamentals with Swift](#5) 
 - [ ] [Programming iOS 14 Dive Deep into Views,ViewControllers and Frameworks](#6) 
+- [x] [Flight School Guide to Swift Numbers](#7) 
 
 <a name="1"></a>
 ### [The Swift Programming Language](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
@@ -29,11 +30,15 @@
 ### [Intermediate iOS 14 Programming with Swift](https://www.appcoda.com/intermediate-swift-programming-book/)
  ![123](https://user-images.githubusercontent.com/107209053/182770530-a437cf92-4b1d-4b1f-ab99-abe0e1c01f2a.png)
 ##
-<!-- <a name="5"></a>
+<a name="5"></a>
 ### [iOS 15 Programming Fundamentals with Swift](https://www.oreilly.com/library/view/ios-15-programming/9781098118495/)
  ![bok](https://user-images.githubusercontent.com/107209053/182771089-de0e0eae-c583-4aa5-b559-153f91477c19.png)
-##  -->
+##
 <a name="6"></a>
 ### [Programming iOS 14 Dive Deep into Views,ViewControllers and Frameworks](https://www.oreilly.com/library/view/programming-ios-14/9781492092162/)
  ![books копия](https://user-images.githubusercontent.com/107209053/183857044-e1104d86-e4b3-4c2b-909c-cd238478a31a.png)
 ## 
+<a name="7"></a>
+### [Flight School Guide to Swift Numbers](https://flight.school/books/numbers/) 
+![Swift Numbers](https://user-images.githubusercontent.com/107209053/198874941-bdbee6a3-e454-409d-95b7-1d67938c4266.png)
+##
