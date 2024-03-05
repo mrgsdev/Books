@@ -25,3 +25,8 @@ This repository contains a list of books I've read on iOS development.
 > [Swift. Основы разработки приложений под iOS, iPadOS и macOS](https://swiftme.ru/product/kniga-swift-razrabotka-prilozhenij-pod-ios-i-ipados-6-e-izdanie-kniga-1/)
 ![swift 2 usov](https://github.com/mrgsdev/Books/assets/157994617/99e8bca7-450e-4d69-92c2-98bba98199bb)
 
+> <a name="4"></a>
+## Flight School 
+> [Flight School ](https://flight.school/) is a book series for advanced Swift developers that explores essential topics in iOS and macOS development through concise, focused guides
+![Flight](https://github.com/mrgsdev/Books/assets/157994617/43f6668e-98d0-4c81-8008-a80b7179af78)
+
