@@ -9,6 +9,7 @@ This repository contains a list of books I've read on iOS development.
 > 1. [The Swift Programming Language](#1)
 > 2. [Swift. Основы разработки приложений под iOS, iPadOS и macOS](#2)
 > 3. [Swift. Разработка приложений под iOS на основе фреймворка UIKit](#3)
+> 4. [Beginning iOS 17 Programming with Swift](#4)
 
 <a name="1"></a>
 ## The Swift Programming Language
@@ -30,3 +31,7 @@ This repository contains a list of books I've read on iOS development.
 > [Flight School ](https://flight.school/) is a book series for advanced Swift developers that explores essential topics in iOS and macOS development through concise, focused guides
 ![Flight](https://github.com/mrgsdev/Books/assets/157994617/43f6668e-98d0-4c81-8008-a80b7179af78)
 
+> <a name="5"></a>
+## Beginning iOS 17 Programming with Swift
+> [Beginning iOS 17 Programming with Swift](https://www.appcoda.com/swift/) You will learn how to build a restaurant app from the ground up in Swift using UIKit. Starting by creating an app prototype, we will add one feature at a time and you will have a real app after going through the course.
+![Beginning iOS 17 AppCoda](https://github.com/mrgsdev/Books/assets/157994617/ed703cbb-fda3-486c-a8de-dacec17dedd0)
