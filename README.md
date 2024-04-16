@@ -9,7 +9,8 @@ This repository contains a list of books I've read on iOS development.
 > 1. [The Swift Programming Language](#1)
 > 2. [Swift. Основы разработки приложений под iOS, iPadOS и macOS](#2)
 > 3. [Swift. Разработка приложений под iOS на основе фреймворка UIKit](#3)
-> 4. [Beginning iOS 17 Programming with Swift](#4)
+> 4. [Flight School](#4)
+> 5. [Beginning iOS 17 Programming with Swift](#5)
 
 <a name="1"></a>
 ## The Swift Programming Language
