@@ -1,5 +1,9 @@
 # Books
-This repository contains a list of books I've read on iOS development.
+This repository contains a list of books I've read on iOS development.<br>
+
+> **Aristotle:**<br>
+> The roots of education are bitter, but the fruit is sweet. 
+
 ### Contents  
  - [ ] [**Theoretical**](#0)
  - [ ] [**Practical**](#00)
@@ -10,9 +14,10 @@ This repository contains a list of books I've read on iOS development.
 | [Advanced Swift](#3) | [Intermediate iOS 17 Programming with Swift](#4) | 
 | [Flight School](#5) | [Core Data by Tutorials](#6) |  
 
-<a name="0"></a>
+
 # Theoretical
-> A theoretical book presents a text that extensively describes the fundamental concepts, syntax, and principles of a programming language. Such a book includes explanations of basic and advanced language concepts such as variables, data types, conditional statements, loops, functions, object-oriented programming, error handling, and many others.
+<a name="0"></a>
+> **A theoretical book** presents a text that extensively describes the fundamental concepts, syntax, and principles of a programming language. Such a book includes explanations of basic and advanced language concepts such as variables, data types, conditional statements, loops, functions, object-oriented programming, error handling, and many others.
 
 <a name="1"></a>
 ## The Swift Programming Language
@@ -33,7 +38,7 @@ This repository contains a list of books I've read on iOS development.
 
 <a name="00"></a>
 # Practical
-> A practical book on Swift programming is a guide that provides specific examples, tasks, and exercises for practical mastery of the Swift programming language. Such a book may include step-by-step instructions for creating applications in Swift, as well as real-world projects or cases to help readers apply their knowledge in practice.
+> **A practical book** on Swift programming is a guide that provides specific examples, tasks, and exercises for practical mastery of the Swift programming language. Such a book may include step-by-step instructions for creating applications in Swift, as well as real-world projects or cases to help readers apply their knowledge in practice.
 
 > <a name="2"></a>
 ## Beginning iOS 17 Programming with Swift
