@@ -50,7 +50,7 @@ This repository contains a list of books I've read on iOS development.<br>
 > <a name="8"></a>
 ## Beginning iOS Programming with Swift and SwiftUI
 > [Beginning iOS 17 Programming with Swift and SwiftUI](https://www.appcoda.com/swift/) You will learn how to build a restaurant app from the ground up in Swift using SwiftUI. Starting by creating an app prototype, we will add one feature at a time and you will have a real app after going through the course.
-> ## [My repository](https://github.com/mrgsdev/AppCoda/tree/main/UIKit/Beginning%20iOS%20Programming%20with%20Swift)
+> ## [My repository](https://github.com/mrgsdev/AppCoda/tree/main/SwiftUI/Beginning%20iOS%20Programming%20with%20SwiftUI)
 > ![SUI](https://github.com/user-attachments/assets/558bfa7d-dcd6-4117-947a-e0d015463ee3)
 
 
