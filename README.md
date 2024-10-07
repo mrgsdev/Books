@@ -10,9 +10,10 @@ This repository contains a list of books I've read on iOS development.<br>
 ---
 | Theoretical   | Practical |
 | ------------- | ------------- |
-| [The Swift Programming Language](#1)  | [Beginning iOS 17 Programming with Swift](#2)  |
+| [The Swift Programming Language](#1)  | [Beginning iOS 17 Programming with Swift and UIKit](#2)  |
 | [Advanced Swift](#3) | [Intermediate iOS 17 Programming with Swift](#4) | 
 | [Flight School](#5) | [Core Data by Tutorials](#6) |  
+|  | [Beginning iOS Programming with Swift and SwiftUI](#8) | 
 
 
 # Theoretical
@@ -41,10 +42,14 @@ This repository contains a list of books I've read on iOS development.<br>
 > **A practical book** on Swift programming is a guide that provides specific examples, tasks, and exercises for practical mastery of the Swift programming language. Such a book may include step-by-step instructions for creating applications in Swift, as well as real-world projects or cases to help readers apply their knowledge in practice.
 
 > <a name="2"></a>
-## Beginning iOS 17 Programming with Swift
-> [Beginning iOS 17 Programming with Swift](https://www.appcoda.com/swift/) You will learn how to build a restaurant app from the ground up in Swift using UIKit. Starting by creating an app prototype, we will add one feature at a time and you will have a real app after going through the course.
+## Beginning iOS 17 Programming with Swift and UIKit
+> [Beginning iOS 17 Programming with Swift and UIKit](https://www.appcoda.com/swift/) You will learn how to build a restaurant app from the ground up in Swift using UIKit. Starting by creating an app prototype, we will add one feature at a time and you will have a real app after going through the course.
 > ## [My repository](https://github.com/mrgsdev/AppCoda/tree/main/UIKit/Beginning%20iOS%20Programming%20with%20Swift)
 > ![Beginning iOS 17 AppCoda](https://github.com/mrgsdev/Books/assets/157994617/ed703cbb-fda3-486c-a8de-dacec17dedd0)
+
+> <a name="8"></a>
+## Beginning iOS Programming with Swift and SwiftUI
+
 
 
 > <a name="4"></a>
