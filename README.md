@@ -14,6 +14,7 @@ This repository contains a list of books I've read on iOS development.<br>
 | [Advanced Swift](#3) | [Intermediate iOS 17 Programming with Swift](#4) | 
 | [Flight School](#5) | [Core Data by Tutorials](#6) |  
 |  | [Beginning iOS Programming with Swift and SwiftUI](#8) | 
+|  | [Mastering SwiftUI](#10) | 
 
 
 # Theoretical
@@ -52,6 +53,11 @@ This repository contains a list of books I've read on iOS development.<br>
 > [Beginning iOS 17 Programming with Swift and SwiftUI](https://www.appcoda.com/swift/) You will learn how to build a restaurant app from the ground up in Swift using SwiftUI. Starting by creating an app prototype, we will add one feature at a time and you will have a real app after going through the course.
 > ## [My repository](https://github.com/mrgsdev/AppCoda/tree/main/SwiftUI/Beginning%20iOS%20Programming%20with%20SwiftUI)
 > ![SUI](https://github.com/user-attachments/assets/558bfa7d-dcd6-4117-947a-e0d015463ee3)
+
+
+> <a name="19"></a>
+## Mastering SwiftUI
+> [Mastering SwiftUI](https://www.appcoda.com/swiftui/) Learn how to build fluid UIs and a real world app with SwiftUI and SwiftData.
 
 
 
