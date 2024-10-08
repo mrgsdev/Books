@@ -58,7 +58,7 @@ This repository contains a list of books I've read on iOS development.<br>
 > <a name="19"></a>
 ## Mastering SwiftUI
 > [Mastering SwiftUI](https://www.appcoda.com/swiftui/) Learn how to build fluid UIs and a real world app with SwiftUI and SwiftData.
-
+> ## [My repository](https://github.com/mrgsdev/AppCoda/tree/main/SwiftUI/Mastering%20SwiftUI) 
 
 
 > <a name="4"></a>
